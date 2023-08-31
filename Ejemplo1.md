@@ -12,3 +12,7 @@ Un hola en python se genera asi:
 print("Hola Mundo");
 
 
+Vale, pues para escribir el hola mundo tan solo tienes que escribir lo siguiente en la caja de JS:
+console.log("Hello world!");
+
+
