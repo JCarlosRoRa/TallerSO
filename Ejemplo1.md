@@ -6,3 +6,9 @@ void println(Object line) {
 }
 
 println("Hello World");
+
+Un hola en python se genera asi:
+
+print("Hola Mundo");
+
+
